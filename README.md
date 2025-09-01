@@ -1,1 +1,1 @@
-# payment_web_application-project-
+I designed the landing page with a clean an professional layout,including a header,hero section ,features,testimonial,and a footer. A blue and white color scheme was chosen to reflect trust and security.flexbox,css grid ,and media queries were used to make the the page responsive across devices. javascript was added for smooth navigation and basic interactivity. The main challenges faced were ensuring responsiveness with frameworks and mainatining cross - browser compatibility.
